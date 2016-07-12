@@ -1,0 +1,193 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<meta name="Description" content="Professional homepage" />
+<meta name="Keywords" content="florent foucaud, graphs, algorithms, identifying code, research, phd" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="Distribution" content="Global" />
+<meta name="Author" content="Florent Foucaud" />
+<meta name="Robots" content="index,follow" />
+
+<link rel="stylesheet" href="../images/PixelGreen.css" type="text/css" />
+
+<title>Florent Foucaud's homepage - Publications</title>
+	
+</head>
+
+<body>
+
+
+<!-- wrap starts here -->
+<div id="wrap">
+
+	<div id="header"><div id="header-content">	
+		
+		<h1 id="logo"><a href="../index.html" title="">Florent<span class="gray">Foucaud</span></a></h1>	
+		<h2 id="slogan">Wandering graph theorist</h2>
+		
+		<!-- Menu Tabs -->
+		<ul>
+<!--			<li><a href="../index.html">Home</a></li>-->
+			<li><a href="./index.html" id="current">Publications</a></li>
+			<li><a href="../Talks/index.html">Talks</a></li>
+			<li><a href="../Reviews/index.html">Reviews</a></li>
+			<li><a href="../Teaching/index.html">Teaching</a></li>
+			<li><a href="../Personal/index.html">Personal</a></li>
+		</ul>		
+			
+	
+	</div></div>
+	
+	<!--<div class="headerphoto"></div>-->
+				
+	<!-- content-wrap starts here -->
+	<div id="content-wrap"><div id="content">		
+		
+	
+		<div id="mainnosidebar">	
+
+<!-- 			<h1>Research</h1>-->
+				<br>
+				<div class="sidebox">
+
+				<h1>Papers</h1>
+
+					<h3>Submitted manuscripts</h3>
+						<ul>
+
+<!--
+							<li><b><em>Bounding the order of a graph using its diameter and metric dimension: a study through tree decompositions and VC-dimension.</em></b> With <a href="http://www.isima.fr/~beaudou/">Laurent Beaudou</a>, <a href="http://www.uj.ac.za/en/faculties/science/departments/mathematics/about/academicstaff/pages/dankelmann,%20peter%20%28prof%29.aspx">Peter Dankelmann</a>, <a href="http://www.uj.ac.za/research/Pages/Prof-Michael-Henning.aspx">Michael A. Henning</a>, <a href="http://lbbe.univ-lyon1.fr/-Mary-Arnaud-.html">Arnaud Mary</a> and <a href="http://liris.cnrs.fr/~aparreau/indexen.html">Aline Parreau</a>.</li>
+-->
+
+<!--							<li><b><em>The complexity of tropical graph homomorphisms.</em></b> With <a href="http://people.maths.ox.ac.uk/harutyunyan/">Ararat Harutyunyan</a>, <a href="http://www.cs.sfu.ca/~pavol/">Pavol Hell</a>, <a href="http://www.lri.fr/membre_en.php?mb=1819">Sylvain Legay</a>, <a href="http://www.lri.fr/~yannis/">Yannis Manoussakis</a> and <a href="http://www.lri.fr/~reza/">Reza Naserasr</a>.</li>
+-->
+
+
+							<li id="S9"><b><em>Parameterized and approximation complexity of the detection pair problem in graphs.</em></b> With <a href="http://www.labri.fr/perso/klasing">Ralf Klasing</a>. <br>Manuscript, 2016. [<a href="http://arxiv.org/abs/1601.05003">arXiv</a> | <a href="./Papers/detection-pair.pdf">PDF</a>]</li>
+
+
+							<li id="S8"><b><em>Homomorphism bounds and edge-colourings of K4-minor-free graphs.</em></b> With <a href="http://www.isima.fr/~beaudou/">Laurent Beaudou</a> and <a href="http://www.lri.fr/~reza/">Reza Naserasr</a>. <br>Manuscript, 2015.</li>
+
+
+							<li id="S7"><b><em>Complexity of Grundy coloring and its variants.</em></b> With <a href="http://www.lamsade.dauphine.fr/~bonnet/">&Eacute;douard Bonnet</a>, <a href="http://www.lamsade.dauphine.fr/~kim/">Eun Jung Kim</a> and <a href="http://www.lamsade.dauphine.fr/~sikora/">Florian Sikora</a>. <br>Manuscript, 2015. [<a href="http://arxiv.org/abs/1407.5336">arXiv</a>] <em>(Conference version <a href="#C6">here</a>.)</em></li>
+
+
+							<li id="S5"><b><em>Location domination in line graphs.</em></b> With <a href="http://www.uj.ac.za/research/Pages/Prof-Michael-Henning.aspx">Michael A. Henning</a>. <br>Manuscript, 2015. [<a href="http://arxiv.org/abs/1506.02623">arXiv</a>]</li>
+
+
+							<li id="S2"><b><em>Identification, location-domination and metric dimension on interval and permutation graphs. I. Bounds.</em></b> With <a href="http://community.dur.ac.uk/george.mertzios/">George B. Mertzios</a>, <a href="http://www.lri.fr/~reza/">Reza Naserasr</a>, <a href="http://liris.cnrs.fr/~aparreau/indexen.html">Aline Parreau</a> and <a href="http://pageperso.lif.univ-mrs.fr/~petru.valicov/">Petru Valicov</a>. <br>Manuscript, 2015.  [<a href="http://arxiv.org/abs/1507.08164">arXiv</a>]</li>
+
+
+
+						</ul>
+
+					<h3 id="publis">Journal papers</h3>
+						<ol reversed>
+
+							<li id="J20"><b><em>Locating-total dominating sets in twin-free graphs: a conjecture.</em></b> With <a href="http://www.uj.ac.za/research/Pages/Prof-Michael-Henning.aspx">Michael A. Henning</a>. <br><em>The Electronic Journal of Combinatorics</em>, accepted (subject to minor revisions), 2016+. [<a href="http://arxiv.org/abs/1503.02950">arXiv</a>]</li>
+
+							<li id="J19"><b><em>The complexity of signed and 2-edge-coloured graph homomorphisms.</em></b> With <a href="http://kamino.tru.ca/experts/home/main/bio.html?id=rbrewster">Richard C. Brewster</a>, <a href="https://www.cs.sfu.ca/~pavol/">Pavol Hell</a> and <a href="http://www.lri.fr/~reza/">Reza Naserasr</a>. <br><em>Discrete Mathematics</em>, accepted (subject to minor revisions), 2016+. [<a href="http://arxiv.org/abs/1510.05502">arXiv</a>]</li>
+
+							<li id="J18"><b><em>Structural properties of recursively partitionable graphs with connectivity 2.</em></b> With <a href="http://dept-info.labri.fr/~baudon/">Olivier Baudon</a>, <a href="http://www2.compute.dtu.dk/~julbe/">Julien Bensmail</a> and <a href="http://home.agh.edu.pl/~pilsniak/">Monika Pil&#347;niak</a>. <br><em>Discussiones Mathematicae Graph Theory</em>, accepted, 2016+. [<a href="http://hal.archives-ouvertes.fr/hal-00672505">HAL</a>]</li>
+
+							<li id="J17"><b><em>Identification, location-domination and metric dimension on interval and permutation graphs. II. Algorithms and complexity.</em></b> With <a href="http://community.dur.ac.uk/george.mertzios/">George B. Mertzios</a>, <a href="http://www.lri.fr/~reza/">Reza Naserasr</a>, <a href="http://liris.cnrs.fr/~aparreau/indexen.html">Aline Parreau</a> and <a href="http://pageperso.lif.univ-mrs.fr/~petru.valicov/">Petru Valicov</a>. <br><em>Algorithmica</em>, accepted (subject to minor revisions), 2016+. [<a href="http://arxiv.org/abs/1405.2424">arXiv</a>] <em>(Conference version <a href="#C7">here</a>.)</em></li>
+
+							<li id="J16"><b><em>Random subgraphs make identification affordable.</em></b> With <a href="http://web.mat.bham.ac.uk/G.Perarnau/">Guillem Perarnau</a> and <a href="http://www-ma4.upc.edu/~oserra/">Oriol Serra</a>. <br><em>Journal of Combinatorics</em>, to appear, 2016+. [<a href="http://arxiv.org/abs/1306.0819">arXiv</a>] <em>(Conference version <a href="#C4">here</a>.)</em></li>
+
+							<li id="J15"><b><em>Location-domination and matching in cubic graphs.</em></b> With <a href="http://www.uj.ac.za/research/Pages/Prof-Michael-Henning.aspx">Michael A. Henning</a>. <br><em>Discrete Mathematics</em> 339(4):1221-1231, 2016. [<a href="http://dx.doi.org/10.1016/j.disc.2015.11.016">DOI</a> | <a href="http://arxiv.org/abs/1412.2865">arXiv</a> | <a href="./Papers/ld-cubic.pdf">PDF</a>]</li>
+
+							<li id="J14"><b><em>Locating-dominating sets in twin-free graphs.</em></b> With <a href="http://www.uj.ac.za/research/Pages/Prof-Michael-Henning.aspx">Michael A. Henning</a>,  <a href="https://www.uni-ulm.de/en/mawi/institute-of-optimization-and-operations-research/staff/ehemalige/pd-dr-christian-loewenstein.html">Christian L&ouml;wenstein</a> and <a href="http://www.uni-ulm.de/mawi/mawi-or/mitarbeiter/ehemalige/thomas-sasse.html">Thomas Sasse</a>. <br><em>Discrete Applied Mathematics</em> 200:52-58, 2016. [<a href="http://dx.doi.org/10.1016/j.dam.2015.06.038">DOI</a> | <a href="http://arxiv.org/abs/1412.2376">arXiv</a> | <a href="./Papers/ld-twinfree.pdf">PDF</a>]</li>
+
+							<li id="J13"><b><em>Locating-dominating sets and identifying codes in graphs of girth at least 5.</em></b> With <a href="http://www.ma3.upc.edu/users/balbuena/">Camino Balbuena</a> and <a href="http://www.matem.unam.mx/fsd/hansberg">Adriana Hansberg</a>. <br><em>The Electronic Journal of Combinatorics</em> 22(2):P2.15, 2015. [<a href="http://www.combinatorics.org/ojs/index.php/eljc/article/view/v22i2p15">www</a> | <a href="http://arxiv.org/abs/1407.7263">arXiv</a> | <a href="./Papers/idcode-girth5.pdf">PDF</a>]</li>
+
+							<li id="J12"><b><em>Decision and approximation complexity for identifying codes and locating-dominating sets in restricted graph classes.</em></b> <br><em>Journal of Discrete Algorithms</em> 31:48-68, 2015. [<a href="http://dx.doi.org/10.1016/j.jda.2014.08.004">DOI</a> | <a href="http://hal.archives-ouvertes.fr/hal-00923356">HAL</a> | <a href="./Papers/approxID.pdf">PDF</a>] <em>(Conference version <a href="#C3">here</a>.)</em></li>
+
+							<li id="J11"><b><em>Large subgraphs without short cycles.</em></b> With <a href="http://www.math.tau.ac.il/~krivelev/">Michael Krivelevich</a> and <a href="http://web.mat.bham.ac.uk/G.Perarnau/">Guillem Perarnau</a>. <br><em>SIAM Journal on Discrete Mathematics</em> 29(1):65-78, 2015. [<a href="http://dx.doi.org/10.1137/140954416">DOI</a> | <a href="http://arxiv.org/abs/1401.4928">arXiv</a>]</li>
+
+							<li id="J10"><b><em>Centroidal bases in graphs.</em></b> With <a href="http://www.labri.fr/perso/klasing">Ralf Klasing</a> and <a href="http://www.cs.uah.edu/~pslater/pslater.html">Peter J. Slater</a>. <br><em>Networks</em> 64(2):96-108, 2014. [<a href="http://dx.doi.org/10.1002/net.21560">DOI</a> | <a href="http://arxiv.org/abs/1406.7490">arXiv</a> | <a href="./Papers/centroidal.pdf">PDF</a>]</li>
+
+							<li id="J9"><b><em>An improved lower bound for (1,<=2)-identifying codes in the king grid.</em></b> With <a href="https://www.utu.fi/en/units/sci/units/math/staff/Pages/terolai.aspx">Tero Laihonen</a> and <a href="http://liris.cnrs.fr/~aparreau/indexen.html">Aline Parreau</a>. <br><em>Advances in Mathematics of Communications</em> 8(1):35-52, 2014. [<a href="http://dx.doi.org/10.3934/amc.2014.8.35">DOI</a> | <a href="http://arxiv.org/abs/1111.2477">arXiv</a> | <a href="./Papers/FLP11-Kinggrid.pdf">PDF</a>]</li>
+
+							<li id="J8"><b><em>On the structure of arbitrarily partitionable graphs with given connectivity.</em></b> With <a href="http://dept-info.labri.fr/~baudon/">Olivier Baudon</a>, <a href="http://skos.agh.edu.pl/osoba/jakub-przybylo-6025.html">Jakub Przyby&#x0142;o</a> and <a href="http://home.agh.edu.pl/~mwozniak/">Mariusz Wo&#x017A;niak</a>. <br><em>Discrete Applied Mathematics</em> 162:381-385, 2014. [<a href="http://dx.doi.org/10.1016/j.dam.2013.09.007">DOI</a> | <a href="http://hal.archives-ouvertes.fr/hal-00690253">HAL</a>]</li>
+
+							<li id="J7"><b><em>Identifying path covers in graphs.</em></b> With <a href="https://sites.google.com/site/matjazkovse/">Matja&#382; Kov&#353;e</a>. <br><em>Journal of Discrete Algorithms</em> 23:21-34, 2013. [<a href="http://dx.doi.org/10.1016/j.jda.2013.07.006">DOI</a> | <a href="./Papers/pathid_journal.pdf">PDF</a>] <em>(Conference version <a href="#C2">here</a>.)</em></li>
+
+							<li id="J6"><b><em>Identifying codes in line graphs.</em></b> With <a href="http://mathsamodeler.ujf-grenoble.fr/~sgravier">Sylvain Gravier</a>, <a href="http://www.lri.fr/~reza/">Reza Naserasr</a>, <a href="http://liris.cnrs.fr/~aparreau/indexen.html">Aline Parreau</a> and <a href="http://pageperso.lif.univ-mrs.fr/~petru.valicov/">Petru Valicov</a>. <br><em>Journal of Graph Theory</em> 73(4):425-448, 2013. [<a href="http://dx.doi.org/10.1002/jgt.21686">DOI</a> | <a href="http://arxiv.org/abs/1107.0207">arXiv</a> | <a href="./Papers/FGNPV11_idcodes_in_line_graphs.pdf">PDF</a>] <em>(Conference version <a href="#C1">here</a>.)</em></li>
+
+							<li id="J5"><b><em>Characterizing extremal digraphs for identifying codes and extremal cases of Bondy's theorem on induced subsets.</em></b> With <a href="http://www.lri.fr/~reza/">Reza Naserasr</a> and <a href="http://liris.cnrs.fr/~aparreau/indexen.html">Aline Parreau</a>. <br><em>Graphs and Combinatorics</em> 29(3):463-473, 2013. [<a href="http://dx.doi.org/10.1007/s00373-012-1136-4">DOI</a> | <!--<a href="http://hal.archives-ouvertes.fr/hal-00526446">HAL</a> | --><a href="http://arxiv.org/abs/1010.2985">arXiv</a> | <a href="./Papers/FNP2010-Extremal_problems_on_idcodes_in_digraphs.pdf">PDF</a>]</li>
+
+							<li id="J4"><b><em>Bounds on the size of identifying codes in triangle-free graphs.</em></b> With <a href="http://www.labri.fr/perso/klasing">Ralf Klasing</a>, <a href="http://www.liafa.fr/~kosowski/">Adrian Kosowski</a> and <a href="http://www.labri.fr/perso/raspaud">Andr&eacute; Raspaud</a>. <br><em>Discrete Applied Mathematics</em> 160(10-11):1532-1546, 2012. [<a href="http://dx.doi.org/10.1016/j.dam.2012.02.009">DOI</a> | <a href="http://arxiv.org/abs/1010.5975">arXiv</a> | <a href="./Papers/FKKR2010-bounds_on_idcodes_in_tfree_graphs.pdf">PDF</a>]</li>
+
+							<li id="J3"><b><em>Locally identifying colourings for graphs with given maximum degree.</em></b></b> With <a href="http://www.utu.fi/en/units/sci/units/math/staff/Pages/honkala.aspx">Iiro Honkala</a>, <a href="https://www.utu.fi/en/units/sci/units/math/staff/Pages/terolai.aspx">Tero Laihonen</a>, <a href="http://liris.cnrs.fr/~aparreau/indexen.html">Aline Parreau</a> and <a href="http://web.mat.bham.ac.uk/G.Perarnau/">Guillem Perarnau</a>. <br><em>Discrete Mathematics</em> 312(10):1832-1837, 2012. [<a href="http://dx.doi.org/10.1016/j.disc.2012.01.034">DOI</a> | <a href="http://arxiv.org/abs/1108.2769">arXiv</a> | <a href="./Papers/FHLPP11-LIDcoloring-maximum-degree.pdf">PDF</a>]</li>
+
+							<li id="J2"><b><em>Bounds on identifying codes in terms of degree parameters.</em></b> With <a href="http://web.mat.bham.ac.uk/G.Perarnau/">Guillem Perarnau</a>. <br><em>The Electronic Journal of Combinatorics</em> 19:P32, 2012. [<a href="http://new.combinatorics.org/ojs/index.php/eljc/article/view/v19i1p32">www</a> | <a href="http://arxiv.org/abs/1103.3756">arXiv</a> | <a href="./Papers/FP2011-Idcodes_degree-parameters.pdf">PDF</a>]</li>
+
+							<li id="J1"><b><em>Extremal graphs for the identifying code problem.</em></b> With <a href="https://sites.google.com/site/eleonorahomepage/">Eleonora Guerrini</a>, <a href="https://sites.google.com/site/matjazkovse/">Matja&#382; Kov&#353;e</a>, <a href="http://www.lri.fr/~reza/">Reza Naserasr</a>, <a href="http://liris.cnrs.fr/~aparreau/indexen.html">Aline Parreau</a> and <a href="http://pageperso.lif.univ-mrs.fr/~petru.valicov/">Petru Valicov</a>. <br><em>European Journal of Combinatorics</em> 32(4):628-638, 2011. [<a href=http://dx.doi.org/10.1016/j.ejc.2011.01.002>DOI</a> | <!--<a href="http://hal.archives-ouvertes.fr/hal-00477467">HAL</a> | --><a href="http://arxiv.org/abs/1004.5230">arXiv</a> | <a href="./Papers/FGKNPV2010-Extremal_graphs_for_the_idcode_problem.pdf">PDF</a>]</li>
+
+						</ol>
+
+					<h3>Conference papers with refereed proceedings</h3>
+						<ol reversed>
+
+							<li id="C7"><b><em>Algorithms and complexity for metric dimension and location-domination on interval and permutation graphs.</em></b> With <a href="http://community.dur.ac.uk/george.mertzios/">George B. Mertzios</a>, <a href="http://www.lri.fr/~reza/">Reza Naserasr</a>, <a href="http://liris.cnrs.fr/~aparreau/indexen.html">Aline Parreau</a> and <a href="http://pageperso.lif.univ-mrs.fr/~petru.valicov/">Petru Valicov</a>. <br>Proceedings of the 41st International Workshop on Graph-Theoretic Concepts in Computer Science (WG 2015), to appear. [<a href="./Papers/WG15-IDproblems_conf.pdf">PDF</a> | <a href="http://arxiv.org/abs/1405.2424">arXiv (extended manuscript)</a>] <em>(Journal version <a href="#J17">here</a>.)</em></li>
+
+							<li id="C6"><b><em>Complexity of Grundy coloring and its variants.</em></b> With <a href="http://www.lamsade.dauphine.fr/~bonnet/">&Eacute;douard Bonnet</a>, <a href="http://www.lamsade.dauphine.fr/~kim/">Eun Jung Kim</a> and <a href="http://www.lamsade.dauphine.fr/~sikora/">Florian Sikora</a>. <br>Proceedings of the 21st International Conference on Computing and Combinatorics (COCOON 2015). LNCS 9198:109-120, 2015. [<a href="http://dx.doi.org/10.1007/978-3-319-21398-9_9">DOI</a> | <a href="./Papers/COCOON15-Grundy_conf_full.pdf">PDF</a> | <a href="http://arxiv.org/abs/1407.5336">arXiv (extended manuscript)</a>] <em>(Journal version <a href="#S7">here</a>.)</em></li>
+
+							<li id="C5"><b><em>The complexity of signed graph homomorphisms and signed constraint satisfaction.</em></b> With <a href="http://www.lri.fr/~reza/">Reza Naserasr</a>. <br>Proceedings of the 11th Latin American Symposium on Theoretical Informatics (LATIN 2014). LNCS 8392:526-537, 2014. [<a href="http://dx.doi.org/10.1007/978-3-642-54423-1_46">DOI</a> | <a href="./Papers/signedHom_conf.pdf">PDF</a>]</li>
+
+							<li id="C4"><b><em>Random subgraphs make identification affordable.</em></b> With <a href="http://web.mat.bham.ac.uk/G.Perarnau/">Guillem Perarnau</a> and <a href="http://www-ma4.upc.edu/~oserra/">Oriol Serra</a>. <br>Proceedings of the 7th European Conference on Combinatorics, Graph Theory and Applications (EUROCOMB 2013). CRM Series 16:415-420, 2013. [<a href="http://dx.doi.org/10.1007/978-88-7642-475-5_66">DOI</a> | <a href="http://arxiv.org/abs/1306.0819">arXiv (extended manuscript)</a>] <em>(Journal version <a href="#J16">here</a>.)</em></li>
+
+							<li id="C3"><b><em>The complexity of the identifying code problem in restricted graph classes.</em></b> <br>Proceedings of the 24th International Workshop on Combinatorial Algorithms (IWOCA 2013). LNCS 8288:150-163, 2013. [<a href="http://dx.doi.org/10.1007/978-3-642-45278-9_14">DOI</a> | <a href="./Papers/approxID.pdf">extended manuscript</a>] <em>(Journal version <a href="#J12">here</a>.)</em></li>
+
+							<li id="C2"><b><em>On graph identification problems and the special case of identifying vertices using paths.</em></b> With <a href="https://sites.google.com/site/matjazkovse/">Matja&#382; Kov&#353;e</a>. <br>Proceedings of the 23rd International Workshop on Combinatorial Algorithms (IWOCA 2012). LNCS 7643:32-45, 2012. [<a href="http://dx.doi.org/10.1007/978-3-642-35926-2_4">DOI</a>] <em>(Journal version <a href="#J7">here</a>.)</em></li>
+
+							<li id="C1"><b><em>Edge identifying codes.</em></b> With <a href="http://www-fourier.ujf-grenoble.fr/-Informations-personnelles-.html?P=gravier">Sylvain Gravier</a>, <a href="http://www.lri.fr/~reza/">Reza Naserasr</a>, <a href="http://liris.cnrs.fr/~aparreau/indexen.html">Aline Parreau</a> and <a href="http://pageperso.lif.univ-mrs.fr/~petru.valicov/">Petru Valicov</a>. <br>Proceedings of the 6th European Conference on Combinatorics, Graph Theory and Applications (EUROCOMB 2011). <em>Electronic Notes in Discrete Mathematics</em> 38:343-348, 2011. [<a href=http://dx.doi.org/10.1016/j.endm.2011.09.056>DOI</a> | <a href="http://arxiv.org/abs/1107.0207">arXiv (extended manuscript)</a>] <em>(Journal version <a href="#J6">here</a>.)</em></li>
+
+						</ol>
+
+
+					<h3>Unpublished manuscripts</h3>
+						<ul>
+							<li><b><em>On powers of interval graphs and their orders.</em></b> With <a href="http://www.lri.fr/~reza/">Reza Naserasr</a>, <a href="http://liris.cnrs.fr/~aparreau/indexen.html">Aline Parreau</a> and <a href="http://pageperso.lif.univ-mrs.fr/~petru.valicov/">Petru Valicov</a>. Manuscript, 2015. [<a href="http://arxiv.org/abs/1505.03459">arXiv</a>]</li>
+
+ 							<li><b><em>Locally identifying colouring planar graphs of small maximum degree and girth 5 with four colours is NP-hard.</em></b></b> With <a href="http://liris.cnrs.fr/~aparreau/indexen.html">Aline Parreau</a> and <a href="http://pageperso.lif.univ-mrs.fr/~petru.valicov/">Petru Valicov</a>. Manuscript, 2011. [<a href="./Papers/planar-lid-coloring.pdf">PDF</a>]</li>
+	
+						</ul>
+
+				</div>
+				<div class="sidebox">
+				<h1 id="theses">Theses</h3>
+						<ul>
+
+							<li><b><em>Combinatorial and algorithmic aspects of identifying codes in graphs.</em></b> PhD Thesis manuscript, defended on December 10th, 2012 in Bordeaux.  Under the supervision of <a href="http://www.labri.fr/perso/klasing">Ralf Klasing</a> and <a href="http://www.labri.fr/perso/raspaud">Andr&eacute; Raspaud</a>. In English.  [<a href="./PhDThesis/thesis_florent_foucaud_final_version.pdf">Manuscript (Clickable colour PDF)</a> | <a href="./PhDThesis/thesis_florent_foucaud_final_print_version.pdf">Manuscript (Printable Black&White PDF)</a> | <a href="./Slides/PhD_defense_Foucaud.pdf">Slides of the defense (PDF)</a>]</li>	
+
+
+							<li><b><em>Identifying codes in special graph classes</em></b>. Master thesis, Universit&eacute; Bordeaux 1, June 2009. Under the supervision of <a href="http://www.labri.fr/perso/klasing">Ralf Klasing</a> and <a href="http://www.labri.fr/perso/raspaud">Andr&eacute; Raspaud</a>. In English, with French introduction. [<a href="./MastersThesis/memoire_master2_florent_foucaud_codes_identifiants_2009.pdf">Manuscript (PDF)</a>]</li>				
+						</ul>
+				</div>
+			
+
+				<br><br><br><br>			
+		</div>					
+		
+	<!-- content-wrap ends here -->		
+	</div></div>
+
+<!-- footer starts here -->	
+<div id="footer">
+	<div id="footer-content">
+            		<p>
+			&copy; copyleft 2010 Florent Foucaud. Template by <a href="http://www.styleshout.com/">styleshout</a>
+		</p>
+	</div>
+</div>
+<!-- footer ends here -->
+	
+<!-- wrap ends here -->
+</div>
+
+</body>
+</html>
